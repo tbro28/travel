@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amboy on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/cities/amboy/</link>
+    <description>Recent content in Amboy on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/cities/amboy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WASHINGTON BRIDGE BUNGEE JUMP OVER 200 FEET</title>
+      <link>https://tbro28.github.io/travel/post/bungee_washington/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/bungee_washington/</guid>
+      <description>With GoPros around now this video footage would be a lot better.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

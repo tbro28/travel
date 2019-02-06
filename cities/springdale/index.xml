@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Springdale on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/cities/springdale/</link>
+    <description>Recent content in Springdale on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/cities/springdale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zion National Park Angels Landing Hike</title>
+      <link>https://tbro28.github.io/travel/post/zion_angels_landing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/zion_angels_landing/</guid>
+      <description>Photo Album</description>
+    </item>
+    
+    <item>
+      <title>Zion National Park The Narrows Hike</title>
+      <link>https://tbro28.github.io/travel/post/zion_the_narrows/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/zion_the_narrows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

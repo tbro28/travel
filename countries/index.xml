@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Countries on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/countries/</link>
+    <description>Recent content in Countries on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tbro28.github.io/travel/countries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>United States</title>
+      <link>https://tbro28.github.io/travel/countries/united-states/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/countries/united-states/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/categories/</link>
+    <description>Recent content in Categories on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activities</title>
+      <link>https://tbro28.github.io/travel/categories/activities/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boating</title>
+      <link>https://tbro28.github.io/travel/categories/boating/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/boating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>https://tbro28.github.io/travel/categories/hiking/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scuba Diving</title>
+      <link>https://tbro28.github.io/travel/categories/scuba-diving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/scuba-diving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowboarding</title>
+      <link>https://tbro28.github.io/travel/categories/snowboarding/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/snowboarding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tours</title>
+      <link>https://tbro28.github.io/travel/categories/tours/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/categories/tours/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

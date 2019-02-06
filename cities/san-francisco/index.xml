@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Francisco on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/cities/san-francisco/</link>
+    <description>Recent content in San Francisco on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/cities/san-francisco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>San Francisco Maritime National Historical Park</title>
+      <link>https://tbro28.github.io/travel/post/san_francisco_maritime_national_historical_park/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/san_francisco_maritime_national_historical_park/</guid>
+      <description>https://www.nps.gov/safr/learn/historyculture/hercules.htm
+https://www.nps.gov/safr/learn/historyculture/balclutha.htm
+https://www.nps.gov/safr/learn/historyculture/eppleton-hall.htm</description>
+    </item>
+    
+    <item>
+      <title>San Francisco Maritime USS Pampanito</title>
+      <link>https://tbro28.github.io/travel/post/san_francisco_maritime_uss_pampanito/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/san_francisco_maritime_uss_pampanito/</guid>
+      <description>https://maritime.org/uss-pampanito/</description>
+    </item>
+    
+  </channel>
+</rss>

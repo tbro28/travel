@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tukwila on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/cities/tukwila/</link>
+    <description>Recent content in Tukwila on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/cities/tukwila/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helicopter Ride Over Seattle</title>
+      <link>https://tbro28.github.io/travel/post/heli_seattle/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/heli_seattle/</guid>
+      <description>After 9 years of living in Seattle I thought I had seen the whole city. I was wrong. This company took off from Boeing field and I assume most of them do, since it is so close to Seattle.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Washington on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/states/washington/</link>
+    <description>Recent content in Washington on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/states/washington/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helicopter Ride Over Seattle</title>
+      <link>https://tbro28.github.io/travel/post/heli_seattle/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/heli_seattle/</guid>
+      <description>After 9 years of living in Seattle I thought I had seen the whole city. I was wrong. This company took off from Boeing field and I assume most of them do, since it is so close to Seattle.
+ </description>
+    </item>
+    
+    <item>
+      <title>SNOWBOARDING AT SUMMIT WITH NEW SAMSUNG 360 CAMERA</title>
+      <link>https://tbro28.github.io/travel/post/snowboarding/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/snowboarding/</guid>
+      <description>Playing in the clouds on a mountain covered with snow.
+This is heading down the lower part of Alpine at Summit Central.
+If there is one positive of all the rain in the northwest this is it.
+  </description>
+    </item>
+    
+    <item>
+      <title>Flyboard and Jetovator in Lake Sammamish</title>
+      <link>https://tbro28.github.io/travel/post/flyboard_seattle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/flyboard_seattle/</guid>
+      <description>I did the flyboard and jetovator in Lake Sammamish. Way more difficult, than it looks.
+ </description>
+    </item>
+    
+    <item>
+      <title>SEATTLE SEGWAY</title>
+      <link>https://tbro28.github.io/travel/post/segway_seattle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/segway_seattle/</guid>
+      <description>These were way easier and way more fun to ride than I had expected. Of course it rained on us towards the end.
+ </description>
+    </item>
+    
+    <item>
+      <title>WASHINGTON BRIDGE BUNGEE JUMP OVER 200 FEET</title>
+      <link>https://tbro28.github.io/travel/post/bungee_washington/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/bungee_washington/</guid>
+      <description>With GoPros around now this video footage would be a lot better.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

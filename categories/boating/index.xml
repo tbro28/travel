@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boating on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/categories/boating/</link>
+    <description>Recent content in Boating on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/categories/boating/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lake Havasu Boating</title>
+      <link>https://tbro28.github.io/travel/post/lake_havasu/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/lake_havasu/</guid>
+      <description>Water is great. Lots of water and toys even better!
+ Yeah, I busted my lip on this the cliff diving, so careful out there! 
+ </description>
+    </item>
+    
+    <item>
+      <title>Wakeboarding on the Willamette</title>
+      <link>https://tbro28.github.io/travel/post/wakeboarding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/post/wakeboarding/</guid>
+      <description>Clouds couldn&amp;rsquo;t stop a good time.
+The video is mostly west of the Newburg dock. Wakeboarding behind a ski boat with no ballast tanks; I&amp;rsquo;ll still take it! Any way to get out on the water is a good one. We used to put hundreds of pounds of sand bags in the back for a little more wake :) I&amp;rsquo;d definitely use fatsacs nowadays even if it meant being a little cramped.</description>
+    </item>
+    
+  </channel>
+</rss>

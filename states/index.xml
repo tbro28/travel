@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>States on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/states/</link>
+    <description>Recent content in States on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/states/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arizona</title>
+      <link>https://tbro28.github.io/travel/states/arizona/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/arizona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>California</title>
+      <link>https://tbro28.github.io/travel/states/california/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/california/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawaii</title>
+      <link>https://tbro28.github.io/travel/states/hawaii/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/hawaii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nevada</title>
+      <link>https://tbro28.github.io/travel/states/nevada/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/nevada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oregon</title>
+      <link>https://tbro28.github.io/travel/states/oregon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/oregon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utah</title>
+      <link>https://tbro28.github.io/travel/states/utah/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/utah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Washington</title>
+      <link>https://tbro28.github.io/travel/states/washington/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/states/washington/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

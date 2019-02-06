@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trips on Adventure Explorer</title>
+    <link>https://tbro28.github.io/travel/trips/</link>
+    <description>Recent content in Trips on Adventure Explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/travel/trips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Las Vegas    Lake Havasu    San Francisco</title>
+      <link>https://tbro28.github.io/travel/trips/las-vegas----lake-havasu----san-francisco/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/trips/las-vegas----lake-havasu----san-francisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Las Vegas    Zion</title>
+      <link>https://tbro28.github.io/travel/trips/las-vegas----zion/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/trips/las-vegas----zion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portland   San Francisco   Las Vegas</title>
+      <link>https://tbro28.github.io/travel/trips/portland---san-francisco---las-vegas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/travel/trips/portland---san-francisco---las-vegas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
